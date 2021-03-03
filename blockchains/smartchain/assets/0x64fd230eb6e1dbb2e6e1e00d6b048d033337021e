@@ -1,0 +1,24 @@
+{
+    "name": "DogDeFiShares",
+    "website": "https://dogdeficoin",
+    "source_code": "https://github.com/dogdefi",
+    "description": "Staking and NFT platform.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/dogdeficoin",
+            "handle": "dogdeficoin"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/dogdeficoin",
+            "handle": "dogdeficoin"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x64fd230eb6e1dbb2e6e1e00d6b048d033337021e",
+    "type": "BEP20",
+    "symbol": "DogDeFiS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x64fd230eb6e1dbb2e6e1e00d6b048d033337021e"
+}
